@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## spicyboi319's Guide on Building PCs
 
-You can use the [editor on GitHub](https://github.com/spicyboi319/buildapc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This guide is provided free of charge. Links in this guide may have an affiliate tag in order to support the author. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to contribute to this guide.
 
-### Markdown
+### Why use this guide?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal for this guide is to create the world's most in depth resource about how to build a computer and for it to be useful for everyone who reads it.
 
-```markdown
-Syntax highlighted code block
+That means that this guide is great if you are building a computer for the first time, haven't done it in awhile, or it is your full time job. Even if you are pretty good at building PCs, hopefully you will learn something. 
 
-# Header 1
-## Header 2
-### Header 3
+I felt that my guide would be very useful, but didn't want to put it into a book. I don't know everything and wanted to be able to make changes over time. I first tried using Wix, but quickly found that it costs way too much (for what it is) and others would not be able to contribute. Now I'm trying out GitHub, as others can contribute, and it's free.
 
-- Bulleted
-- List
+### Start your adventure.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spicyboi319/buildapc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+By clicking [here,](about:blank) you will be transported to a tunnel of knowledge about building (and working on) computers.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with your build, or just want to say thanks? I have created a [Discord server](discord.gg) for people to chat about PCs. If you aren't having any luck there, there are tons of other resources on the internet. Just Bing it ;=D. 
