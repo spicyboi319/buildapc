@@ -14,7 +14,7 @@ I felt that my guide would be very useful, but didn't want to put it into a book
 
 ### Start your adventure.
 
-By clicking [here,](about:blank) you will be transported to a tunnel of knowledge about building (and working on) computers.
+By clicking [here,](/docs/firstpage.md) you will be transported to a tunnel of knowledge about building (and working on) computers.
 
 ### Support or Contact
 
